@@ -38,10 +38,6 @@ Recognized as an **IFIA Inv Member** by the International Federation of Inventor
 
 <img src="./achievements/IFIA-Inv-Membership-2026.jpg" width="700">
 
-### 🏅 Medals & Awards
-
-- Coming soon...
-
 ---
 
 ## 💻 Skills
