@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Nima 👋
 
-<!--
-**NIMAAKBARI89/NIMAAKBARI89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 AI & Python Developer  
+🤖 Interested in Artificial Intelligence, Computer Vision & Software Development  
+🚀 Building projects and learning something new every day
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### 🎓 Classroom Focus Detector
+
+An AI-powered classroom monitoring project designed to analyze student attention using computer vision.
+
+🔗 [View Project](https://github.com/NIMAAKBARI89/Classroom-Focus-Detector)
+
+---
+
+## 🏆 Achievements
+
+### 🥇 Competitions
+
+- Coming soon...
+
+### 📜 Certificates
+
+- Coming soon...
+
+### 🏅 Medals & Awards
+
+- Coming soon...
+
+---
+
+## 💻 Skills
+
+- Python
+- OpenCV
+- Artificial Intelligence
+- Computer Vision
+- Git & GitHub
+
+---
+
+## 📊 What I'm Working On
+
+- 🤖 Artificial Intelligence
+- 👁️ Computer Vision
+- 🐍 Python Projects
+- 🚀 Innovative Projects
+
+---
+
+## 📫 Contact
+
+Feel free to connect with me through GitHub.
