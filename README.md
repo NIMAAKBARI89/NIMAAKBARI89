@@ -18,13 +18,25 @@ An AI-powered classroom monitoring project designed to analyze student attention
 
 ## 🏆 Achievements
 
-### 🥇 Competitions
+### 🥉 Bronze Award — IFIA
 
-- Coming soon...
+**6th International Invention and Innovation Competition**  
+📍 Geneva, Switzerland  
+📅 July 3–5, 2026
 
-### 📜 Certificates
+Awarded for the invention:
 
-- Coming soon...
+**Glidesense Capsule — Air-Deployed Sliding Sensors**
+
+<img src="./achievements/IFIA-Bronze-Award-2026.jpg" width="700">
+
+---
+
+### 🏅 IFIA Inv Member
+
+Recognized as an **IFIA Inv Member** by the International Federation of Inventors' Associations (IFIA).
+
+<img src="./achievements/IFIA-Inv-Membership-2026.jpg" width="700">
 
 ### 🏅 Medals & Awards
 
