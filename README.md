@@ -38,6 +38,13 @@ Recognized as an **IFIA Inv Member** by the International Federation of Inventor
 
 <img src="./achievements/IFIA-Inv-Membership-2026.jpg" width="700">
 
+ ### 🥈silver award - INNOVERSE
+ 
+ I’m proud to share that my team and I achieved 2nd place in the INNOVERSE competition with our project, Classroom Focus Detector. 🥈🏆
+
+This project was developed to use AI to analyze students’ focus and engagement in the classroom and provide meaningful insights.
+
+I’m incredibly grateful to my teammates and everyone who supported us throughout this journey. This achievement motivates us to keep learning, innovating, and building better solutions. 🚀
 ---
 
 ## 💻 Skills
